@@ -1,5 +1,5 @@
 👋 **Hi, I’m Lina**   
-🎓 I'm a political scientist with a master studies in sociology   
+🎓 I'm a political scientist with master studies in sociology   
 📈 Currently experimenting with data analysis, specifically in the business intelligence field
 
 ✨ Languages and libraries:   
@@ -13,24 +13,17 @@
 
 🤓 Learning platforms:  
 
-<img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" />   
-Enrolled at the data analysis bootcamp from Neue Fische
+<img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" /> <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" /> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=linaperez&badge&colormode=bright_mode" />
 
 
 
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 
-
-
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linapg&theme=vue" />
-
-
-
-- 💞️ I’m looking to collaborate on projects related to politics, mobility, environmental, economics and migration issues
-- 📫 Reach me at sayhi@linaperez.de
-- 📝 My story in Medium: "I am starting from scratch at 32 because I broke up with my career" - https://bit.ly/3Fdw0JW
+💞️ I’m looking to collaborate on projects related to politics, mobility, environmental, economics and migration issues
+📫 Reach me at sayhi@linaperez.de
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
+My story in Medium: "I am starting from scratch at 32 because I broke up with my career" - https://bit.ly/3Fdw0JW
 - <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 
 
