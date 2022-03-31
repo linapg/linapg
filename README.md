@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋, I'm Lina</h1>
+<h1 align="left">Hello 👋 I'm Lina</h1>
 
 🐣 I am new here!  
 ✨ Currently enrolled at the [data analysis bootcamp](https://www.neuefische.de/weiterbildung/data-analytics) at Neue Fische   
