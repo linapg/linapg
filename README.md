@@ -7,9 +7,4 @@
 🌿 Learning from everyone <br>
 📫 Say hi at **sayhi@linaperez.de**    
 📄 Check out my [story](https://www.linaperez.de/)
-<br>
-
-<a href="https://twitter.com/@linaprezgonzle1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@linaprezgonzle1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/linaperezg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/linaperezg/" height="30" width="40" /></a> <a href="https://medium.com/@linaperez" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@linaperez" height="30" width="40" /></a>
-
 </p> 
